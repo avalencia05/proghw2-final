@@ -1,0 +1,11 @@
+body{
+    background-color: plum;
+    color: white;
+}
+h1{
+    color: powderblue;
+    letter-spacing: 5px;
+}
+p{
+    border: 3px teal;
+}
