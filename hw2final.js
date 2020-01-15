@@ -1,1 +1,3 @@
-<button onclick="document.getElementById('myImage').scr='pic_bulbon.gif'">Turn on</button>
+function myFunction(){
+    document.getElementById("demo").innerHTML = "Hey! Did that paragraph just change?! How did you do that?";
+}
